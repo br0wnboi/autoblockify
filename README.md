@@ -8,9 +8,15 @@ Linux only for now.
 
 
 ## Requirments
-- [blockify](https://github.com/serialoverflow/blockify)  
-- pulseaudio (if you have a functioning audio system you probably have this installed  
-- Spotify Linux [Debian/Ubuntu](https://www.spotify.com/us/download/linux/)  [Snap](https://www.spotify.com/us/download/linux/)  [AUR](http://aur.archlinux.org/packages/spotify)
+- Spotify Linux: Download from below links
+    - [Debian/Ubuntu/Snap](https://www.spotify.com/us/download/linux/)
+    - [AUR](http://aur.archlinux.org/packages/spotify)
+- Blockify
+    - [Github](https://github.com/serialoverflow/blockify)
+    - [AUR](https://aur.archlinux.org/packages/blockify-git/)
+- Pulseaudio 
+>if you have a functioning audio system you probably have pulseaudio installed  
+
 
 ## Tested on
 Manjaro 20 with the default installation of spotify from AUR and blockify
